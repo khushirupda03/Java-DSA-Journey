@@ -12,6 +12,7 @@ This repository contains my Data Structures and Algorithms (DSA) learning journe
 ## Topics Covered
 
 * Basics
+* Patterns
 * Arrays
 * Strings
 * Recursion
