@@ -4,11 +4,11 @@ This folder contains Java pattern-based programs that help strengthen logical th
 
 ## Programs Included
 
-1. Right Triangle Pattern
-2. Inverted Triangle Pattern
-3. Number Triangle Pattern
-4. Full Pyramid Pattern
-5. Hollow Square Pattern
+1. Floyd's Triangle
+2. Pascal's Triangle
+3. Full Pyramid Pattern
+4. Hollow Square Pattern
+5. Diamond Pattern
 
 ## Concepts Practiced
 
@@ -21,6 +21,14 @@ This folder contains Java pattern-based programs that help strengthen logical th
 ## Objective
 
 The goal of these exercises is to build a strong foundation in programming logic before moving on to core Data Structures and Algorithms topics such as Arrays, Searching, and Sorting.
+
+## Learning Outcome
+
+Through these pattern problems, I improved my understanding of:
+- Loop control and iteration
+- Space and character manipulation
+- Mathematical and visual pattern generation
+- Breaking complex problems into smaller logical steps
 
 ---
 
