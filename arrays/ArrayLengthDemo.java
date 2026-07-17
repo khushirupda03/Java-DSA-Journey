@@ -1,0 +1,9 @@
+public class ArrayLengthDemo {
+    public static void main(String[]args){
+        int[] numbers={10,20,30,40,50};
+        System.out.println("Length:" +numbers.length);
+        System.out.println("First Index = 0");
+        System.out.println("Last index =" +(numbers.length-1));
+    }
+    
+}
